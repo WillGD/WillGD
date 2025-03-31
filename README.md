@@ -4,7 +4,7 @@
 
 ## Nice to meet you, I'm Will Dantas! 👨‍👨‍ 👋🏼
 <div> • 💻 Salesforce Developer <br><br>
-• 👨‍🎓 I'm a Systems Development technician graduated from Etec Guaianazes and a student of Systems Analysis and Development at São Paulo Tech School. <br><br>
+• 👨‍🎓 I am a Systems Development technician graduated from Etec Guaianazes and a graduate in Systems Analysis and Development from São Paulo Tech School. <br><br>
 
 • 🏢 Currently, I am a Mid-level Development Analyst at Accenture Brazil, working in the Salesforce tower. I am contracted through Randstad Brasil, and my role involves offering support and developing solutions for client needs within Salesforce.
 
