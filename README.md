@@ -16,8 +16,8 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/WillDantasJPG">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WillDantasJPG&theme=radical" alt="Julia's GitHub Contribution"/>
+  <a href="https://github.com/WillGD">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WillGD&theme=radical" alt="Will GitHub Contribution"/>
   </a>
 </p>
 
@@ -27,7 +27,7 @@
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=WillDantasJPG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com//WillDantasJPG">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillDantasJPG&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillGD&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
@@ -73,4 +73,4 @@
 
 ## 🏆 Achievements: 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=WillDantasJPG&theme=tokyonight)](https://github.com/dantaswilljpg/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=WillGD&theme=tokyonight)](https://github.com/WillGD/github-profile-trophy)
