@@ -47,13 +47,13 @@
     <code><img height="50" src="https://img.icons8.com/color/48/000000/console.png" alt="Shell" title="Shell" /></code>
     <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" /></code>
     <code><img height="50" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" /></code>
-    <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/apex-3521686-2945140.png" alt="Apex" title="Apex" /></code>
+    <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Salesforce_logo.svg" alt="Apex" title="Apex" /></code>
     <code><img height="50" src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server" /></code>
     <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" /></code>
     <code><img height="50" src="https://img.icons8.com/ios-filled/50/000000/docker.png" alt="Docker" title="Docker" /></code>
     <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" /></code>
     <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="Salesforce" title="Salesforce" /></code>
-    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightning/lightning-original.svg" alt="LWC" title="Lightning Web Components" /></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="LWC" title="Lightning Web Components" /></code>
 </div>
 
 
