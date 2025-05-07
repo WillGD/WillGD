@@ -73,7 +73,7 @@
 ### ⚡ **Salesforce**:
 <div align="center">
     <code><img height="50" src="https://camo.githubusercontent.com/9d7870b8404a5ba9d59dfcfe428ad017152f24c923f56485accd9e78998b24ff/68747470733a2f2f7777772e6f70656e636f64657a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30342f4c6561726e696e672d417065782d53616c6573666f7263652e706e67" alt="Apex" title="Apex" /></code>
-    <code><img height="50" src="https://camo.githubusercontent.com/327d270a4968f9a6dc93978ba15781a595f9521553b370de1fb0e5a34f9b9aec/68747470733a2f2f7777772e617765736f6d656c77632e636f6d2f7265736f75726365732f6c77632e706e67" alt="LWC" title="Lightning Web Components" /></code>
+  <code><img height="50" src="https://camo.githubusercontent.com/327d270a4968f9a6dc93978ba15781a595f9521553b370de1fb0e5a34f9b9aec/68747470733a2f2f7777772e617765736f6d656c77632e636f6d2f7265736f75726365732f6c77632e706e67" alt="LWC" title="Lightning Web Components" /></code>
 </div>
 
 
