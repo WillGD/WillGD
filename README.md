@@ -6,7 +6,7 @@
 <div> • 💻 Salesforce Developer <br><br>
 • 👨‍🎓 I am a Systems Development technician graduated from Etec Guaianazes and a graduate in Systems Analysis and Development from São Paulo Tech School. <br><br>
 
-• 🏢 Currently, I am a Mid-level Development Analyst at Accenture Brazil, working in the Salesforce tower. I am contracted through Randstad Brasil, and my role involves offering support and developing solutions for client needs within Salesforce.
+• 🏢  Currently, I am a Mid-level Package Specialist at IBM Brazil, working within the Salesforce ecosystem. I contribute to the development of scalable solutions and provide support aligned with client business needs, focusing on excellence and innovation in cloud CRM.
 
 </div>
 <br><br>
